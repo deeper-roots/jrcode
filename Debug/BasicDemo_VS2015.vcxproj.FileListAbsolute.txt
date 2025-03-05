@@ -1,0 +1,5 @@
+D:\FILELin\postgraduate\傅里叶叠层\mvs\Development\Samples\VC\VS\BasicDemo\Debug\BasicDemo.exe
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemo\Debug\BasicDemo.exe
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV2\Debug\BasicDemo.exe
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV3\Debug\BasicDemo.exe
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\Debug\BasicDemo.exe

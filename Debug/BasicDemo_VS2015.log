@@ -1,0 +1,22 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  process.cpp
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\process.cpp(157,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\process.cpp(171,79): warning C4244: “参数”: 从“float”转换到“IMC32”，可能丢失数据
+  MvCamera.cpp
+  BasicDemoDlg.cpp
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(656,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(1119,63): warning C4018: “>”: 有符号/无符号不匹配
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(1202,9): warning C4101: “i”: 未引用的局部变量
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(1203,10): warning C4101: “n”: 未引用的局部变量
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(1325,33): warning C4018: “<”: 有符号/无符号不匹配
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(1355,36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(1362,45): warning C4244: “=”: 从“float”转换到“int64_t”，可能丢失数据
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(1363,44): warning C4244: “=”: 从“float”转换到“int64_t”，可能丢失数据
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(1586,35): warning C4018: “>”: 有符号/无符号不匹配
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\BasicDemoDlg.cpp(1612,70): warning C4309: “参数”: 截断常量值
+  BasicDemo.cpp
+  正在生成代码...
+BasicDemo.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  BasicDemo_VS2015.vcxproj -> D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\Debug\BasicDemo.exe

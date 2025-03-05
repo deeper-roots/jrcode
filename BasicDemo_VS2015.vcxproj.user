@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+    <RESOURCE_FILE>BasicDemo.rc</RESOURCE_FILE>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerEnvironment>D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\opencv\install\x86\vc16\bin
+D:\研究生\傅里叶叠层\BasicDemo\BasicDemoV4\opencv\install\x86\vc16\lib
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
